@@ -1,6 +1,6 @@
-#!/bin/env bash  
+#!/bin/bash  
 # =====================================================
-# Script run_sra_to_fast1_pipeline.sh
+# Script run_sra_to_fastq_pipeline.sh
 # Author: Gina Magro
 # Created 2026-04-20
 # Description: 
