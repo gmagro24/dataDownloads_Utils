@@ -23,7 +23,7 @@
 set -euo pipefail 
 
 # ==========================
-#  Usaage check 
+#  Usage check 
 # =========================
 
 if [ -z "${1:-}" ]; then 
